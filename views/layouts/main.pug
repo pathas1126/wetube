@@ -1,0 +1,11 @@
+doctype html
+html
+    head
+        link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.11.2/css/all.css")
+        title #{pageTitle} | #{siteName}
+    body
+        include ../partials/header
+        main
+            block content
+            //-like a window operating in pug
+        include ../partials/footer
