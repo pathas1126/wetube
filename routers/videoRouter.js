@@ -3,7 +3,7 @@ import routes from "../routes";
 import {
   home,
   search,
-  videos,
+  // videos,
   upload,
   videoDetail,
   editVideo,
@@ -14,7 +14,7 @@ const videoRouter = express.Router();
 
 videoRouter.get(routes.home, home);
 videoRouter.get(routes.search, search);
-videoRouter.get(routes.videos, videos);
+// videoRouter.get(routes.videos, videos);
 videoRouter.get(routes.upload, upload);
 videoRouter.get(routes.videoDetail, videoRouter);
 videoRouter.get(routes.editVideo, editVideo);
