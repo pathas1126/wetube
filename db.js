@@ -4,7 +4,8 @@ export const videos = [
     title: "Video awesome",
     description: "THis is something I love",
     views: 25,
-    videoFile: "https://archive.org/download/ElephantsDream/ed_hd.avi",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 232322,
       name: "Hong",
@@ -16,7 +17,8 @@ export const videos = [
     title: "Video Super",
     description: "THis is something I love",
     views: 25,
-    videoFile: "https://archive.org/download/ElephantsDream/ed_hd.avi",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 232322,
       name: "Hong",
@@ -28,7 +30,8 @@ export const videos = [
     title: "Video Nice",
     description: "THis is something I love",
     views: 25,
-    videoFile: "https://archive.org/download/ElephantsDream/ed_hd.avi",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 232322,
       name: "Hong",
